@@ -1,4 +1,4 @@
-# Test Project
+# FreeCodeCamp Courses
 This repository is used as a FreeCodeCamp code hosting. 
 
 ## Authors
